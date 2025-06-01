@@ -75,9 +75,9 @@ pip install -r requirements.txt
 Some required files are too large to be hosted. Please download them from the links below, place them in the specified directories, and **unzip them if needed**.
 
 | File Name         | Description               | Path in Project         | Download Link |
-|-------------------|:----------------------------:|--------------------------|----------------|
-| `Wikipedia_bd.zip`       | Reference Corpus needed by evaluation   | `LLM-ITL/`   | [Download](https://hobbitdata.informatik.uni-leipzig.de/homes/mroeder/palmetto/Wikipedia_bd.zip) |
-| `glove.6B.100d.txt`     | Word embeddings needed by WeTe       | `LLM-ITL/topic_models/WeTe/`     | [Download](https://drive.google.com/file/d/1pSThF2q2Cl99yaSos1k1Ba62oN7gqgCk/view?usp=sharing) |
+|-------------------|:----------------------------:|--------------------------|:----------------:|
+| `Wikipedia_bd.zip`       | Reference Corpus needed by evaluation   | `LLM-ITL/`   | [🔗](https://hobbitdata.informatik.uni-leipzig.de/homes/mroeder/palmetto/Wikipedia_bd.zip) |
+| `glove.6B.100d.txt`     | Word embeddings needed by WeTe       | `LLM-ITL/topic_models/WeTe/`     | [🔗](https://drive.google.com/file/d/1pSThF2q2Cl99yaSos1k1Ba62oN7gqgCk/view?usp=sharing) |
 
 
 ## 🚀 Usage
