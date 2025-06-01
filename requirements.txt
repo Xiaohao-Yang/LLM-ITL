@@ -1,0 +1,7 @@
+torch
+transformers
+sentencepiece
+scikit-learn
+gensim
+protobuf
+pot
