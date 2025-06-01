@@ -103,7 +103,7 @@ python eval.py --dataset 20News --model nvdm --n_topic 50 --eval_topics
 
 ## 📌 Examples
 <details>
-<summary>🔍 Refine topics and get confidence ( <a href="refine_topics">example_run.ipynb</a> )</summary>
+<summary>🔍 Refine topics and get confidence ( <a href="refine_topics">Jupyter Notebook</a> )</summary>
   
 ```python
 # load functions
