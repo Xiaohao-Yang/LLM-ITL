@@ -36,7 +36,7 @@ In this framework:
 - NTMs are used to learn global topics and document representations.
 - An LLM refines the learned topics via an **Optimal Transport (OT)-based alignment objective**, dynamically adjusting based on the LLM's confidence in suggesting topical words.
 
-LLM-ITL is modular and compatible with many existing NTMs. It significantly improves topic interpretability without compromising the quality of learned document representations — as demonstrated through extensive experiments.
+LLM-ITL is modular and compatible with many existing NTMs. It significantly improves topic interpretability while maintaining the quality of document representations, as demonstrated through extensive experiments.
 
 ---
 
