@@ -75,6 +75,8 @@ if __name__ == '__main__':
 
             if args.TC == 'cv':
                 tc_metric = 'C_V'
+
+            # make sure you have unzip 'Wikipedia_bd.zip' before this
             os.system('java -jar palmetto-0.1.5-exec.jar wikipedia_bd %s %s > %s' % (tc_metric, topic_file, temp_path))
 
             with open(temp_path, 'r') as file:
