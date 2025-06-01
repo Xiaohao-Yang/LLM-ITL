@@ -25,7 +25,7 @@ This repository contains the official implementation of our paper:
 
 ## 📖 Overview
 <p align="center">
-  <img src="overview.png" alt="LLM-ITL Framework Diagram" width="700"/>
+  <img src="overview.png" alt="LLM-ITL Framework Diagram" width="600"/>
 </p>
 
 <p align="center">
