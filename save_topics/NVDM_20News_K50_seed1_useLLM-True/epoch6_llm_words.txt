@@ -1,0 +1,50 @@
+digital: 0.1 authentication: 0.1 verification: 0.1 form: 0.1 online: 0.1 review: 0.1 submit: 0.1 electronic: 0.1 signature: 0.1 approval: 0.1
+file: 0.1 value: 0.1 command: 0.1 document: 0.1 page: 0.1 language: 0.1 make: 0.1 process: 0.1 create: 0.1 edit: 0.1
+utility: 0.1 cable: 0.1 controller: 0.1 router: 0.1 configuration: 0.1 programming: 0.1 setting: 0.1 card: 0.1 modem: 0.1 available: 0.1
+save: 0.1 charge: 0.1 low: 0.1 running: 0.1 problem: 0.1 software: 0.1 power: 0.1 want: 0.1 bike: 0.1 battery: 0.1
+secretary: 0.1 majority: 0.1 court: 0.1 power: 0.1 official: 0.1 authority: 0.1 justice: 0.1 right: 0.1 law: 0.1 civil: 0.1
+ball: 0.1 hr: 0.1 strike: 0.1 inning: 0.1 pitch: 0.1 game: 0.1 win: 0.1 umpire: 0.1 field: 0.1 player: 0.1
+drive: 0.1 design: 0.1 interface: 0.1 controller: 0.1 scsi: 0.1 hard: 0.1 pc: 0.1 speed: 0.1 mb: 0.1 chip: 0.1
+need: 0.1 design: 0.1 time: 0.1 algorithm: 0.1 know: 0.1 trying: 0.1 program: 0.1 code: 0.1 make: 0.1 use: 0.1
+adapter: 0.1 device: 0.1 interface: 0.1 hardware: 0.1 card: 0.1 port: 0.1 connection: 0.1 line: 0.1 chip: 0.1 connect: 0.1
+importance: 0.1 matter: 0.1 good: 0.1 answer: 0.1 effort: 0.1 attention: 0.1 care: 0.1 mean: 0.1 use: 0.1 worth: 0.1
+productivity: 0.1 efficient: 0.1 work: 0.1 schedule: 0.1 time: 0.1 effect: 0.1 task: 0.1 know: 0.1 track: 0.1 plan: 0.1
+storage: 0.11 hardware: 0.11 technology: 0.11 data: 0.11 computer: 0.11 software: 0.11 network: 0.11 information: 0.11 processing: 0.11
+ball: 0.11 controller: 0.11 game: 0.11 play: 0.11 joystick: 0.11 chip: 0.11 button: 0.11 hit: 0.11 player: 0.11
+drive: 0.1 interface: 0.1 disk: 0.1 hard: 0.1 external: 0.1 computer: 0.1 state: 0.1 solid: 0.1 internal: 0.1 driver: 0.1
+interface: 0.05 memory: 0.05 pc: 0.05 cpu: 0.05 controller: 0.05 storage: 0.05 chip: 0.05 driver: 0.05 ram: 0.05 ide: 0.05 drive: 0.05 adapter: 0.05 card: 0.05 port: 0.05 battery: 0.05 setup: 0.05 mother: 0.05 module: 0.05 board: 0.05
+idea: 0.1 shameful: 0.1 religion: 0.1 pain: 0.1 spiritual: 0.1 faith: 0.1 eternal: 0.1 believe: 0.1 suffering: 0.1 death: 0.1
+control: 0.11 device: 0.11 interface: 0.11 controller: 0.11 scsi: 0.11 hardware: 0.11 cpu: 0.11 card: 0.11 software: 0.11
+gateway: 0.1 machine: 0.1 serial: 0.1 interface: 0.1 controller: 0.1 port: 0.1 computer: 0.1 video: 0.1 chip: 0.1 driver: 0.1
+research: 0.1 study: 0.1 investigation: 0.1 risk: 0.1 prevention: 0.1 theory: 0.1 cause: 0.1 treatment: 0.1 symptom: 0.1 disease: 0.1
+secure: 0.12 virus: 0.12 data: 0.12 power: 0.12 computer: 0.12 prevent: 0.12 network: 0.12 circuit: 0.12
+sale: 0.1 change: 0.1 market: 0.1 car: 0.1 deal: 0.1 trade: 0.1 low: 0.1 sell: 0.1 price: 0.1 buy: 0.1
+remember: 0.1 encryption: 0.1 protection: 0.1 access: 0.1 private: 0.1 data: 0.1 computer: 0.1 password: 0.1 chip: 0.1 key: 0.1
+able: 0.1 kind: 0.1 say: 0.1 intention: 0.1 interpretation: 0.1 convey: 0.1 understand: 0.1 mean: 0.1 consider: 0.1 point: 0.1
+using: 0.1 fact: 0.1 quote: 0.1 source: 0.1 data: 0.1 used: 0.1 book: 0.1 based: 0.1 information: 0.1 key: 0.1
+bit: 0.1 frequency: 0.1 fixed: 0.1 design: 0.1 memory: 0.1 processor: 0.1 mhz: 0.1 architecture: 0.1 circuit: 0.1 key: 0.1
+community: 0.1 major: 0.1 health: 0.1 drug: 0.1 addiction: 0.1 group: 0.1 public: 0.1 problem: 0.1 support: 0.1 common: 0.1
+punishment: 0.1 violence: 0.1 police: 0.1 court: 0.1 prosecute: 0.1 justice: 0.1 lawyer: 0.1 law: 0.1 crime: 0.1 sentence: 0.1
+clear: 0.11 life: 0.11 reason: 0.11 easy: 0.11 law: 0.11 better: 0.11 basic: 0.11 bike: 0.11 use: 0.11
+monitor: 0.1 test: 0.1 patient: 0.1 ill: 0.1 screen: 0.1 health: 0.1 medical: 0.1 diagnosis: 0.1 result: 0.1 check: 0.1
+command: 0.1 rule: 0.1 obligation: 0.1 force: 0.1 protection: 0.1 freedom: 0.1 authority: 0.1 right: 0.1 limit: 0.1 law: 0.1
+using: 0.1 drive: 0.1 memory: 0.1 server: 0.1 read: 0.1 hard: 0.1 flash: 0.1 card: 0.1 solid: 0.1 disk: 0.1
+true: 0.1 law: 0.1 fact: 0.1 statement: 0.1 answer: 0.1 know: 0.1 think: 0.1 claim: 0.1 believe: 0.1 correct: 0.1
+attachment: 0.1 reply: 0.1 sender: 0.1 recipient: 0.1 posting: 0.1 message: 0.1 plan: 0.1 support: 0.1 email: 0.1 send: 0.1
+base: 0.1 cdi: 0.1 ide: 0.1 drive: 0.1 hard: 0.1 bios: 0.1 card: 0.1 mb: 0.1 modem: 0.1 motherboard: 0.1
+file: 0.11 server: 0.11 storage: 0.11 data: 0.11 library: 0.11 network: 0.11 distributed: 0.11 based: 0.11 information: 0.11
+change: 0.1 encryption: 0.1 output: 0.1 algorithm: 0.1 function: 0.1 data: 0.1 encrypted: 0.1 information: 0.1 code: 0.1 mean: 0.1
+officer: 0.11 license: 0.11 drive: 0.11 alarm: 0.11 card: 0.11 power: 0.11 defend: 0.11 upgrade: 0.11 make: 0.11
+remember: 0.1 sure: 0.1 simply: 0.1 way: 0.1 question: 0.1 know: 0.1 actually: 0.1 think: 0.1 understand: 0.1 make: 0.1
+keyboard: 0.06 serial: 0.06 device: 0.06 interface: 0.06 controller: 0.06 adapter: 0.06 scsi: 0.06 connector: 0.06 technology: 0.06 slot: 0.06 port: 0.06 card: 0.06 bus: 0.06 chip: 0.06 motherboard: 0.06 mount: 0.06
+version: 0.1 changed: 0.1 download: 0.1 update: 0.1 configuration: 0.1 install: 0.1 patch: 0.1 software: 0.1 upgrade: 0.1 installed: 0.1
+escrow: 0.1 home: 0.1 advance: 0.1 price: 0.1 lead: 0.1 buy: 0.1 period: 0.1 payment: 0.1 process: 0.1 real: 0.1
+workstation: 0.1 server: 0.1 advance: 0.1 case: 0.1 slot: 0.1 cpu: 0.1 unix: 0.1 mhz: 0.1 model: 0.1 board: 0.1
+ball: 0.1 error: 0.1 strike: 0.1 team: 0.1 hard: 0.1 start: 0.1 game: 0.1 pitcher: 0.1 run: 0.1 average: 0.1
+save: 0.1 knowledge: 0.1 spirit: 0.1 let: 0.1 freedom: 0.1 win: 0.1 power: 0.1 hope: 0.1 healing: 0.1 love: 0.1
+keyboard: 0.1 drive: 0.1 cd: 0.1 controller: 0.1 server: 0.1 access: 0.1 hard: 0.1 printer: 0.1 mouse: 0.1 motherboard: 0.1
+interface: 0.1 connected: 0.1 user: 0.1 window: 0.1 printer: 0.1 application: 0.1 panel: 0.1 printing: 0.1 disk: 0.1 program: 0.1
+machine: 0.1 ram: 0.1 bit: 0.1 memory: 0.1 hardware: 0.1 slot: 0.1 simms: 0.1 cpu: 0.1 processor: 0.1 voltage: 0.1
+change: 0.1 analysis: 0.1 reason: 0.1 cause: 0.1 issue: 0.1 content: 0.1 used: 0.1 logic: 0.1 problem: 0.1 solution: 0.1
+change: 0.1 decision: 0.1 way: 0.1 life: 0.1 necessary: 0.1 people: 0.1 journey: 0.1 path: 0.1 course: 0.1 key: 0.1
+sure: 0.1 clear: 0.1 perceive: 0.1 heard: 0.1 feel: 0.1 know: 0.1 grasp: 0.1 understand: 0.1 consider: 0.1 certain: 0.1

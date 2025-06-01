@@ -1,0 +1,50 @@
+document: 0.1 using: 0.1 detailed: 0.1 manual: 0.1 knowledge: 0.1 implemented: 0.1 application: 0.1 report: 0.1 written: 0.1 result: 0.1
+document: 0.1 text: 0.1 meaning: 0.1 style: 0.1 content: 0.1 written: 0.1 structure: 0.1 language: 0.1 format: 0.1 make: 0.1
+utility: 0.1 device: 0.1 interface: 0.1 window: 0.1 configuration: 0.1 programming: 0.1 setting: 0.1 modem: 0.1 mode: 0.1 available: 0.1
+remove: 0.1 save: 0.1 charge: 0.1 place: 0.1 running: 0.1 optimize: 0.1 problem: 0.1 software: 0.1 level: 0.1 battery: 0.1
+legislative: 0.1 force: 0.1 central: 0.1 executive: 0.1 majority: 0.1 power: 0.1 official: 0.1 authority: 0.1 structure: 0.1 judicial: 0.1
+ball: 0.1 batter: 0.1 walk: 0.1 strike: 0.1 inning: 0.1 pitch: 0.1 game: 0.1 swing: 0.1 field: 0.1 player: 0.1
+drive: 0.1 design: 0.1 interface: 0.1 storage: 0.1 scsi: 0.1 hard: 0.1 speed: 0.1 cylinder: 0.1 chip: 0.1 capacity: 0.1
+execute: 0.1 debug: 0.1 algorithm: 0.1 perform: 0.1 write: 0.1 defined: 0.1 software: 0.1 language: 0.1 program: 0.1 coding: 0.1
+carrier: 0.1 wireless: 0.1 device: 0.1 router: 0.1 transmission: 0.1 card: 0.1 internet: 0.1 connection: 0.1 network: 0.1 chip: 0.1
+true: 0.11 importance: 0.11 idea: 0.11 virtue: 0.11 principle: 0.11 good: 0.11 right: 0.11 fair: 0.11 value: 0.11
+help: 0.1 monitor: 0.1 objective: 0.1 list: 0.1 work: 0.1 effect: 0.1 ensure: 0.1 standard: 0.1 process: 0.1 check: 0.1
+keyboard: 0.1 motherboard: 0.1 memory: 0.1 harddrive: 0.1 module: 0.1 computer: 0.1 mhz: 0.1 processor: 0.1 vga: 0.1 ram: 0.1
+ball: 0.12 control: 0.12 defensive: 0.12 strategy: 0.12 board: 0.12 chip: 0.12 hit: 0.12 player: 0.12
+interface: 0.1 controller: 0.1 memory: 0.1 scsi: 0.1 disk: 0.1 external: 0.1 computer: 0.1 internal: 0.1 driver: 0.1 ram: 0.1
+ide: 0.1 cache: 0.1 drive: 0.1 memory: 0.1 pc: 0.1 cpu: 0.1 card: 0.1 board: 0.1 motherboard: 0.1 ram: 0.1
+surrender: 0.1 idea: 0.1 religion: 0.1 faith: 0.1 purpose: 0.1 intellect: 0.1 claim: 0.1 believe: 0.1 love: 0.1 church: 0.1
+control: 0.1 device: 0.1 interface: 0.1 controller: 0.1 scsi: 0.1 cpu: 0.1 card: 0.1 module: 0.1 chip: 0.1 processing: 0.1
+machine: 0.1 serial: 0.1 interface: 0.1 controller: 0.1 socket: 0.1 port: 0.1 computer: 0.1 connection: 0.1 chip: 0.1 driver: 0.1
+bacteria: 0.06 outbreak: 0.06 theory: 0.06 treatment: 0.06 epidemic: 0.06 diagnosis: 0.06 infection: 0.06 disease: 0.06 investigation: 0.06 report: 0.06 research: 0.06 virus: 0.06 risk: 0.06 finding: 0.06 cause: 0.06 death: 0.06 prevention: 0.06 cure: 0.06
+protect: 0.11 secure: 0.11 virus: 0.11 hack: 0.11 data: 0.11 power: 0.11 prevent: 0.11 network: 0.11 circuit: 0.11
+change: 0.1 car: 0.1 automatic: 0.1 manual: 0.1 low: 0.1 choice: 0.1 clutch: 0.1 price: 0.1 transmission: 0.1 engine: 0.1
+secure: 0.1 encryption: 0.1 access: 0.1 private: 0.1 public: 0.1 computer: 0.1 password: 0.1 chip: 0.1 disk: 0.1 key: 0.1
+feeling: 0.1 kind: 0.1 say: 0.1 depth: 0.1 realize: 0.1 eternal: 0.1 grasp: 0.1 understand: 0.1 mean: 0.1 consider: 0.1
+control: 0.1 safety: 0.1 secure: 0.1 protected: 0.1 escrow: 0.1 access: 0.1 data: 0.1 encrypted: 0.1 based: 0.1 key: 0.1
+capacity: 0.1 bit: 0.1 memory: 0.1 circuit: 0.1 speed: 0.1 processor: 0.1 mhz: 0.1 upgrade: 0.1 frequency: 0.1 ram: 0.1
+conflict: 0.12 identity: 0.12 culture: 0.12 people: 0.12 problem: 0.12 diversity: 0.12 society: 0.12 social: 0.12
+punishment: 0.12 police: 0.12 regulation: 0.12 protection: 0.12 court: 0.12 justice: 0.12 authority: 0.12 law: 0.12
+instead: 0.1 simply: 0.1 clear: 0.1 reason: 0.1 using: 0.1 rational: 0.1 logical: 0.1 better: 0.1 use: 0.1 probably: 0.1
+control: 0.1 monitor: 0.1 dx: 0.1 test: 0.1 ill: 0.1 screen: 0.1 answer: 0.1 medical: 0.1 diagnosis: 0.1 check: 0.1
+application: 0.06 law: 0.06 obey: 0.06 command: 0.06 compliance: 0.06 force: 0.06 apply: 0.06 jurisdiction: 0.06 binding: 0.06 authority: 0.06 right: 0.06 rule: 0.06 enforce: 0.06 license: 0.06 regulation: 0.06 power: 0.06 limit: 0.06 mandate: 0.06
+memory: 0.1 server: 0.1 read: 0.1 hard: 0.1 flash: 0.1 card: 0.1 state: 0.1 solid: 0.1 disk: 0.1 available: 0.1
+true: 0.1 mind: 0.1 fact: 0.1 know: 0.1 agree: 0.1 think: 0.1 claim: 0.1 believe: 0.1 correct: 0.1 opinion: 0.1
+control: 0.1 following: 0.1 note: 0.1 reply: 0.1 recipient: 0.1 subject: 0.1 sent: 0.1 support: 0.1 email: 0.1 compose: 0.1
+ide: 0.1 drive: 0.1 interface: 0.1 slot: 0.1 modem: 0.1 bios: 0.1 mb: 0.1 card: 0.1 internal: 0.1 motherboard: 0.1
+reliability: 0.11 server: 0.11 storage: 0.11 cloud: 0.11 communication: 0.11 database: 0.11 network: 0.11 architecture: 0.11 security: 0.11
+output: 0.1 algorithm: 0.1 generator: 0.1 function: 0.1 private: 0.1 public: 0.1 encrypted: 0.1 signature: 0.1 code: 0.1 key: 0.1
+cable: 0.1 ide: 0.1 drive: 0.1 interface: 0.1 controller: 0.1 scsi: 0.1 card: 0.1 power: 0.1 upgrade: 0.1 esdi: 0.1
+remember: 0.1 way: 0.1 method: 0.1 know: 0.1 technique: 0.1 think: 0.1 learn: 0.1 understand: 0.1 make: 0.1 process: 0.1
+serial: 0.1 interface: 0.1 controller: 0.1 scsi: 0.1 technology: 0.1 port: 0.1 bus: 0.1 protocol: 0.1 chip: 0.1 motherboard: 0.1
+brake: 0.11 rear: 0.11 changed: 0.11 drive: 0.11 wheel: 0.11 gear: 0.11 replacement: 0.11 installed: 0.11 add: 0.11
+cost: 0.1 escrow: 0.1 advance: 0.1 bought: 0.1 price: 0.1 transaction: 0.1 buy: 0.1 method: 0.1 payment: 0.1 process: 0.1
+interface: 0.05 server: 0.05 pc: 0.05 cpu: 0.05 mhz: 0.05 harddrive: 0.05 motherboard: 0.05 ram: 0.05 case: 0.05 component: 0.05 port: 0.05 model: 0.05 workstation: 0.05 base: 0.05 slot: 0.05 peripheral: 0.05 power: 0.05 board: 0.05 fan: 0.05
+error: 0.1 strike: 0.1 team: 0.1 inning: 0.1 start: 0.1 game: 0.1 pitcher: 0.1 run: 0.1 pitched: 0.1 average: 0.1
+spirit: 0.06 bless: 0.06 save: 0.06 freedom: 0.06 win: 0.06 praise: 0.06 deliver: 0.06 love: 0.06 faithful: 0.06 heaven: 0.06 knowledge: 0.06 let: 0.06 eternal: 0.06 hope: 0.06 salvation: 0.06 power: 0.06 god: 0.06 believe: 0.06
+drive: 0.1 cd: 0.1 memory: 0.1 controller: 0.1 access: 0.1 partition: 0.1 hard: 0.1 set: 0.1 disk: 0.1 capacity: 0.1
+rear: 0.1 drive: 0.1 interface: 0.1 controller: 0.1 connected: 0.1 hard: 0.1 panel: 0.1 disk: 0.1 circuit: 0.1 motor: 0.1
+ram: 0.11 memory: 0.11 controller: 0.11 hardware: 0.11 cpu: 0.11 processor: 0.11 disk: 0.11 motherboard: 0.11 voltage: 0.11
+analysis: 0.1 understanding: 0.1 effect: 0.1 consequence: 0.1 cause: 0.1 issue: 0.1 content: 0.1 solution: 0.1 useful: 0.1 impact: 0.1
+change: 0.1 ability: 0.1 way: 0.1 life: 0.1 started: 0.1 technology: 0.1 journey: 0.1 path: 0.1 course: 0.1 key: 0.1
+sure: 0.1 carefully: 0.1 team: 0.1 reflect: 0.1 thinker: 0.1 feel: 0.1 couple: 0.1 think: 0.1 care: 0.1 consider: 0.1

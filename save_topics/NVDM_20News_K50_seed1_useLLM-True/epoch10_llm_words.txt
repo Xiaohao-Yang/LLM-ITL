@@ -1,0 +1,50 @@
+document: 0.11 text: 0.11 knowledge: 0.11 implemented: 0.11 content: 0.11 software: 0.11 written: 0.11 information: 0.11 format: 0.11
+document: 0.11 editor: 0.11 text: 0.11 style: 0.11 content: 0.11 publish: 0.11 author: 0.11 language: 0.11 format: 0.11
+cable: 0.1 controller: 0.1 connected: 0.1 router: 0.1 configuration: 0.1 programming: 0.1 card: 0.1 internet: 0.1 modem: 0.1 mode: 0.1
+machine: 0.1 save: 0.1 error: 0.1 crash: 0.1 restart: 0.1 boot: 0.1 problem: 0.1 software: 0.1 shutdown: 0.1 battery: 0.1
+president: 0.1 legislative: 0.1 force: 0.1 central: 0.1 executive: 0.1 majority: 0.1 court: 0.1 power: 0.1 state: 0.1 official: 0.1
+ball: 0.1 hr: 0.1 batter: 0.1 walk: 0.1 strike: 0.1 inning: 0.1 pitch: 0.1 game: 0.1 run: 0.1 player: 0.1
+drive: 0.1 interface: 0.1 controller: 0.1 storage: 0.1 memory: 0.1 access: 0.1 technology: 0.1 hard: 0.1 disk: 0.1 capacity: 0.1
+monitor: 0.1 debug: 0.1 algorithm: 0.1 perform: 0.1 sequence: 0.1 write: 0.1 defined: 0.1 program: 0.1 coding: 0.1 make: 0.1
+cable: 0.1 switch: 0.1 interface: 0.1 router: 0.1 port: 0.1 connection: 0.1 line: 0.1 modem: 0.1 circuit: 0.1 connect: 0.1
+idea: 0.14 behavior: 0.14 matter: 0.14 moral: 0.14 good: 0.14 use: 0.14 worth: 0.14
+help: 0.1 monitor: 0.1 objective: 0.1 work: 0.1 effect: 0.1 quality: 0.1 customer: 0.1 assistance: 0.1 respond: 0.1 support: 0.1
+memory: 0.11 motherboard: 0.11 storage: 0.11 case: 0.11 cpu: 0.11 computer: 0.11 processor: 0.11 vga: 0.11 management: 0.11
+ball: 0.11 control: 0.11 rally: 0.11 defensive: 0.11 win: 0.11 serve: 0.11 chip: 0.11 hit: 0.11 player: 0.11
+drive: 0.1 controller: 0.1 storage: 0.1 scsi: 0.1 disk: 0.1 hard: 0.1 external: 0.1 computer: 0.1 board: 0.1 internal: 0.1
+ide: 0.1 cache: 0.1 motherboard: 0.1 cpu: 0.1 card: 0.1 board: 0.1 chip: 0.1 vga: 0.1 caching: 0.1 ram: 0.1
+idea: 0.1 good: 0.1 religion: 0.1 morality: 0.1 faith: 0.1 purpose: 0.1 intellect: 0.1 chastity: 0.1 virtue: 0.1 love: 0.1
+control: 0.1 device: 0.1 controller: 0.1 scsi: 0.1 cpu: 0.1 card: 0.1 module: 0.1 bus: 0.1 motherboard: 0.1 processing: 0.1
+machine: 0.1 serial: 0.1 socket: 0.1 port: 0.1 semiconductor: 0.1 computer: 0.1 processor: 0.1 chip: 0.1 motherboard: 0.1 driver: 0.1
+research: 0.1 investigation: 0.1 risk: 0.1 finding: 0.1 theory: 0.1 cause: 0.1 report: 0.1 practice: 0.1 symptom: 0.1 disease: 0.1
+secure: 0.1 reliability: 0.1 virus: 0.1 protection: 0.1 privacy: 0.1 data: 0.1 computer: 0.1 prevent: 0.1 infection: 0.1 hacking: 0.1
+box: 0.1 car: 0.1 rear: 0.1 automatic: 0.1 manual: 0.1 choice: 0.1 clutch: 0.1 transmission: 0.1 gearbox: 0.1 shift: 0.1
+decryption: 0.1 authentication: 0.1 encryption: 0.1 algorithm: 0.1 access: 0.1 security: 0.1 private: 0.1 public: 0.1 secret: 0.1 key: 0.1
+feeling: 0.11 understanding: 0.11 awareness: 0.11 perception: 0.11 depth: 0.11 realize: 0.11 insight: 0.11 consider: 0.11 reflection: 0.11
+control: 0.1 safety: 0.1 secure: 0.1 protected: 0.1 decrypted: 0.1 access: 0.1 data: 0.1 encrypted: 0.1 hash: 0.1 cryptography: 0.1
+capacity: 0.1 bit: 0.1 frequency: 0.1 memory: 0.1 motherboard: 0.1 processor: 0.1 mhz: 0.1 upgrade: 0.1 circuit: 0.1 ram: 0.1
+conflict: 0.11 community: 0.11 exists: 0.11 people: 0.11 group: 0.11 problem: 0.11 diversity: 0.11 common: 0.11 society: 0.11
+control: 0.1 federal: 0.1 police: 0.1 crime: 0.1 legal: 0.1 government: 0.1 case: 0.1 gun: 0.1 criminal: 0.1 evidence: 0.1
+instead: 0.1 simply: 0.1 using: 0.1 reason: 0.1 clear: 0.1 explain: 0.1 logical: 0.1 better: 0.1 concise: 0.1 use: 0.1
+control: 0.1 monitor: 0.1 dx: 0.1 test: 0.1 screen: 0.1 answer: 0.1 medical: 0.1 diagnosis: 0.1 process: 0.1 check: 0.1
+licensed: 0.1 rule: 0.1 obligation: 0.1 license: 0.1 requirement: 0.1 permission: 0.1 authority: 0.1 right: 0.1 limit: 0.1 law: 0.1
+memory: 0.1 server: 0.1 motherboard: 0.1 cpu: 0.1 card: 0.1 power: 0.1 built: 0.1 disk: 0.1 vga: 0.1 ram: 0.1
+true: 0.1 mind: 0.1 fact: 0.1 know: 0.1 agree: 0.1 think: 0.1 claim: 0.1 believe: 0.1 correct: 0.1 opinion: 0.1
+note: 0.1 reply: 0.1 recipient: 0.1 subject: 0.1 request: 0.1 message: 0.1 sent: 0.1 support: 0.1 email: 0.1 send: 0.1
+package: 0.1 ide: 0.1 drive: 0.1 slot: 0.1 internal: 0.1 bios: 0.1 mb: 0.1 card: 0.1 modem: 0.1 motherboard: 0.1
+service: 0.1 architecture: 0.1 server: 0.1 communication: 0.1 network: 0.1 distributed: 0.1 based: 0.1 protocol: 0.1 distribution: 0.1 information: 0.1
+output: 0.1 algorithm: 0.1 generator: 0.1 function: 0.1 private: 0.1 encrypted: 0.1 signature: 0.1 information: 0.1 code: 0.1 hash: 0.1
+ide: 0.1 drive: 0.1 device: 0.1 interface: 0.1 controller: 0.1 scsi: 0.1 tape: 0.1 card: 0.1 disk: 0.1 esdi: 0.1
+remember: 0.1 study: 0.1 question: 0.1 analyze: 0.1 writing: 0.1 know: 0.1 recall: 0.1 think: 0.1 learn: 0.1 make: 0.1
+dram: 0.11 pci: 0.11 scsi: 0.11 cpu: 0.11 processor: 0.11 bus: 0.11 chip: 0.11 motherboard: 0.11 ram: 0.11
+service: 0.1 changed: 0.1 wheel: 0.1 mechanic: 0.1 swap: 0.1 transmission: 0.1 gear: 0.1 replacement: 0.1 installed: 0.1 torque: 0.1
+sale: 0.1 market: 0.1 cost: 0.1 escrow: 0.1 home: 0.1 bought: 0.1 price: 0.1 property: 0.1 buy: 0.1 value: 0.1
+base: 0.11 slot: 0.11 cpu: 0.11 processor: 0.11 mhz: 0.11 board: 0.11 motherboard: 0.11 clock: 0.11 ram: 0.11
+error: 0.1 ability: 0.1 strike: 0.1 team: 0.1 inning: 0.1 start: 0.1 batting: 0.1 pitcher: 0.1 run: 0.1 average: 0.1
+save: 0.11 knowledge: 0.11 spirit: 0.11 let: 0.11 win: 0.11 power: 0.11 hope: 0.11 salvation: 0.11 love: 0.11
+cache: 0.07 drive: 0.07 ethernet: 0.07 memory: 0.07 controller: 0.07 access: 0.07 storage: 0.07 interface: 0.07 hard: 0.07 RAM: 0.07 CPU: 0.07 BIOS: 0.07 processor: 0.07 disk: 0.07 motherboard: 0.07
+drive: 0.1 device: 0.1 interface: 0.1 controller: 0.1 hard: 0.1 printer: 0.1 application: 0.1 port: 0.1 disk: 0.1 motor: 0.1
+ide: 0.1 memory: 0.1 controller: 0.1 hardware: 0.1 slot: 0.1 simms: 0.1 disk: 0.1 motherboard: 0.1 isa: 0.1 voltage: 0.1
+analysis: 0.1 reason: 0.1 need: 0.1 effect: 0.1 cause: 0.1 issue: 0.1 problem: 0.1 solution: 0.1 process: 0.1 impact: 0.1
+change: 0.11 ability: 0.11 way: 0.11 life: 0.11 development: 0.11 progress: 0.11 journey: 0.11 path: 0.11 grows: 0.11
+sure: 0.1 happy: 0.1 mind: 0.1 good: 0.1 attitude: 0.1 feel: 0.1 say: 0.1 positive: 0.1 understand: 0.1 consider: 0.1
