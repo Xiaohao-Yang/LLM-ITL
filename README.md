@@ -18,7 +18,7 @@ This repository contains the official implementation of the paper:
 - [Usage](#-usage)
 - [Examples](#-examples)
 - [Citation](#-citation)
-
+- [License](#-license)
 ---
 
 ## 📖 Overview
@@ -234,5 +234,9 @@ for i in range(len(word_prob)):
   year={2024}
 }
 ```
+
+## 📄 License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
