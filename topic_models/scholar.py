@@ -303,7 +303,7 @@ def load_data_scholar(mat_file_name):
     # change label to one-hot vector
     label_encoder = OneHotEncoder()
     train_label_oneHot = label_encoder.fit_transform(train_label).todense()
-    test_label_oneHot = label_encoder.fit_transform(test_label).todense()
+    test_label_oneHot = label_encoder.transform(test_label).todense()
 
     if not sparse.isspmatrix(train_data):
         train_data = sparse.csr_matrix(train_data).astype('float32')
