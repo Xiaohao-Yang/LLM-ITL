@@ -456,7 +456,7 @@ if __name__ == '__main__':
     np.random.seed(options.seed)
 
     # load hyper-parameters for topic model
-    hps = hyperparamters[args.name + '_' + args.dataset]
+    hps = hyperparamters[options.model + '_' + options.dataset]
     options.n_epochs = hps[0]
     options.lr = hps[1]
     options.bs = hps[2]
