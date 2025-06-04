@@ -290,7 +290,7 @@ def train_dev_split(options, rng):
         return None, None
 
 
-def load_data_scholar(mat_file_name):
+def load_data_scholar(mat_file_name, use_label=True):
     data = sio.loadmat(mat_file_name)
     train_data = data['bow_train']
     test_data = data['bow_test']
@@ -301,9 +301,13 @@ def load_data_scholar(mat_file_name):
     test_label = data['label_test']
 
     # change label to one-hot vector
-    label_encoder = OneHotEncoder()
-    train_label_oneHot = label_encoder.fit_transform(train_label).todense()
-    test_label_oneHot = label_encoder.transform(test_label).todense()
+    if use_label:
+        label_encoder = OneHotEncoder()
+        train_label_oneHot = label_encoder.fit_transform(train_label).todense()
+        test_label_oneHot = label_encoder.transform(test_label).todense()
+    else:
+        train_label_oneHot = None
+        test_label_oneHot = None
 
     if not sparse.isspmatrix(train_data):
         train_data = sparse.csr_matrix(train_data).astype('float32')
@@ -333,8 +337,11 @@ def main(data_dict, model_glove):
     else:
         rng = np.random.RandomState(np.random.randint(0, 100000))
         seed = None
-
-    n_labels = data_dict['train_label'].shape[1]
+    
+    try:
+        n_labels = data_dict['train_label'].shape[1]
+    except:
+        n_labels = 0
     options.n_train, vocab_size = data_dict['train_data'].shape
     options.n_labels = n_labels
 
